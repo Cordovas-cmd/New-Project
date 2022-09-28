@@ -52,6 +52,9 @@ body {
 
 .panel.active h3 {
     opacity: 1;
+    transition: opacity 0.3s ease-in 0.4s;
+    text-shadow: black 2px 2px 2px;
+    font-size: 22px;;
 }
 
 @media( max-width: 480px) {
