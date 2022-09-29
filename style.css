@@ -49,6 +49,11 @@ body {
 .panel.active {
     flex:5;
 }
+.inactive:hover {
+    opacity: 0.9;
+    flex: 0.9;
+    /* transition: flex 0.4s ease-in; */
+}
 
 .panel.active h3 {
     opacity: 1;
