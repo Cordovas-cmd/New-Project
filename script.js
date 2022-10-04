@@ -46,3 +46,6 @@ function removeActiveClasses() {
         // }
     })
 }
+
+// have some new js strategies that iw ant tot ry out
+// built in methods and ways to track clicks cycling betwen one and two then resetting amount.
